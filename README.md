@@ -12,3 +12,7 @@ images/: Folder containing project screenshots.
 
 README.md: Project documentation.
 
+## Installation
+1. Clone the repository:
+ 
+   git clone <>
