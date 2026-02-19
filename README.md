@@ -15,4 +15,4 @@ README.md: Project documentation.
 ## Installation
 1. Clone the repository:
  
-   git clone <>
+   git clone <https://github.com/saraker/Mini_Projet.git>
